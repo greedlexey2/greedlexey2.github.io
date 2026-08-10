@@ -1,4 +1,0 @@
-::1 - - [10/Aug/2026 03:45:37] "GET / HTTP/1.1" 200 -
-::1 - - [10/Aug/2026 03:45:38] "GET /alexey.jpg HTTP/1.1" 200 -
-::1 - - [10/Aug/2026 03:46:14] "GET /_next/static/css/index.N6t_cbc_.css HTTP/1.1" 200 -
-::1 - - [10/Aug/2026 03:46:14] "GET /reviews/liza.png HTTP/1.1" 200 -
