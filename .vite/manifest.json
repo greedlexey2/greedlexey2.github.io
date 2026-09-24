@@ -10,8 +10,18 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
+  "app/contact-actions.tsx": {
+    "file": "_next/static/chunks/contact-actions-BwGZv8sA.js",
+    "name": "contact-actions",
+    "src": "app/contact-actions.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
   "app/yandex-metrika.tsx": {
-    "file": "_next/static/chunks/yandex-metrika-Dv0XSg29.js",
+    "file": "_next/static/chunks/yandex-metrika-DlQ1pDX9.js",
     "name": "yandex-metrika",
     "src": "app/yandex-metrika.tsx",
     "isDynamicEntry": true,
@@ -21,19 +31,8 @@
       "_framework-BgSIrAUN.js"
     ]
   },
-  "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-BPSsrEN-.js",
-    "name": "image",
-    "src": "node_modules/vinext/dist/shims/image.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-BgSIrAUN.js"
-    ]
-  },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-t2RxV27s.js",
+    "file": "_next/static/chunks/layout-segment-context-BT9XJ0U9.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -44,7 +43,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-uUHV6dtq.js",
+    "file": "_next/static/chunks/index-CN3Hb9kT.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -56,7 +55,7 @@
       "app/yandex-metrika.tsx",
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "node_modules/vinext/dist/shims/image.js"
+      "app/contact-actions.tsx"
     ]
   }
 }
