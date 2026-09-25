@@ -21,7 +21,7 @@
     ]
   },
   "app/yandex-metrika.tsx": {
-    "file": "_next/static/chunks/yandex-metrika-BSN5fFr9.js",
+    "file": "_next/static/chunks/yandex-metrika-BstPApwH.js",
     "name": "yandex-metrika",
     "src": "app/yandex-metrika.tsx",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CRgjYwQ8.js",
+    "file": "_next/static/chunks/layout-segment-context-l2Vdu0Z-.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -43,7 +43,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CN0i761G.js",
+    "file": "_next/static/chunks/index-CEZmDF3B.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
